@@ -1,0 +1,13 @@
+FUNDAMENTOS BOOTSTRAP.TXT
+
+container-fluid : ocupa el 100% de la página.
+container : ocupa el tamaño dependiendo de las resoluciones de pantalla ( es responsive).
+bg-: (background)
+d-flex :(display flex)
+mb-: (margin bottom)
+p- (padding)
+fs- (font-size)
+w- (weight)
+mx- (maximo horizontal)
+text-center (textos)
+pt- (padding top)
